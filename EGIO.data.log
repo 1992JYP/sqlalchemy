@@ -1,0 +1,80 @@
+INFO    ||2023-01-26 14:00:30||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 14:00:30||finish job
+INFO    ||2023-01-26 14:00:39||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 14:00:39||finish job
+INFO    ||2023-01-26 14:00:44||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 14:00:44||finish job
+INFO    ||2023-01-26 14:56:42||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 14:56:42||finish job
+INFO    ||2023-01-26 15:04:25||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:04:25||finish job
+ERROR   ||2023-01-26 15:04:25||(mariadb.ProgrammingError) Table 'dbo.t' doesn't exist
+[SQL: INSERT INTO dbo.t (x) VALUES (?)]
+[parameters: ((0,), (1,), (2,), (3,), (4,))]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+INFO    ||2023-01-26 15:04:25||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:04:25||finish job
+INFO    ||2023-01-26 15:05:48||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:05:48||finish job
+ERROR   ||2023-01-26 15:05:48||(mariadb.ProgrammingError) Table 'dbo.t' doesn't exist
+[SQL: INSERT INTO dbo.t (x) VALUES (?)]
+[parameters: ((0,), (1,), (2,), (3,), (4,))]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+INFO    ||2023-01-26 15:05:48||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:05:48||finish job
+INFO    ||2023-01-26 15:07:46||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:07:46||finish job
+ERROR   ||2023-01-26 15:07:46||(mariadb.ProgrammingError) Table 'dbo.t' doesn't exist
+[SQL: INSERT INTO dbo.t (x) VALUES (?)]
+[parameters: ((0,), (1,), (2,), (3,), (4,))]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+INFO    ||2023-01-26 15:07:46||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:07:46||finish job
+INFO    ||2023-01-26 15:08:11||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:08:11||finish job
+ERROR   ||2023-01-26 15:08:11||(mariadb.ProgrammingError) Table 'dbo.t' doesn't exist
+[SQL: INSERT INTO dbo.t (x) VALUES (?)]
+[parameters: ((0,), (1,), (2,), (3,), (4,))]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+INFO    ||2023-01-26 15:08:11||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:08:11||finish job
+INFO    ||2023-01-26 15:10:26||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:10:26||finish job
+ERROR   ||2023-01-26 15:10:26||(mariadb.ProgrammingError) Table 'dbo.t' doesn't exist
+[SQL: INSERT INTO dbo.t (x) VALUES (?)]
+[parameters: ((0,), (1,), (2,), (3,), (4,))]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+INFO    ||2023-01-26 15:10:26||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:10:26||finish job
+INFO    ||2023-01-26 15:14:32||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:14:32||finish job
+ERROR   ||2023-01-26 15:14:32||(mariadb.ProgrammingError) Table 'dbo.t' doesn't exist
+[SQL: INSERT INTO dbo.t (x) VALUES (?)]
+[parameters: ((0,), (1,), (2,), (3,), (4,))]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+INFO    ||2023-01-26 15:14:32||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:14:32||finish job
+INFO    ||2023-01-26 15:15:44||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:15:44||finish job
+ERROR   ||2023-01-26 15:15:44||(mariadb.IntegrityError) Field 'id' doesn't have a default value
+[SQL: INSERT INTO test.t (x) VALUES (?)]
+[parameters: ((0,), (1,), (2,), (3,), (4,))]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+INFO    ||2023-01-26 15:15:44||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:15:44||finish job
+INFO    ||2023-01-26 15:16:18||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:16:18||finish job
+ERROR   ||2023-01-26 15:16:18||(mariadb.OperationalError) Incorrect datetime value: '1' for column `test`.`t`.`x` at row 2
+[SQL: INSERT INTO test.t (x) VALUES (?)]
+[parameters: ((0,), (1,), (2,), (3,), (4,))]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+INFO    ||2023-01-26 15:16:18||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:16:18||finish job
+INFO    ||2023-01-26 15:17:01||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:17:01||finish job
+INFO    ||2023-01-26 15:17:01||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:17:01||finish job
+INFO    ||2023-01-26 15:21:29||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:21:29||finish job
+INFO    ||2023-01-26 15:21:29||KOSCOMFTPBATCHMANUAL
+INFO    ||2023-01-26 15:21:29||finish job
